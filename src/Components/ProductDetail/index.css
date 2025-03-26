@@ -1,0 +1,9 @@
+.wrapper{
+    background-color: #fff;
+    padding: 50px 60px;
+    
+    
+}
+.main{
+    display: flex;
+}
